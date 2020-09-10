@@ -4,9 +4,10 @@ import (
 	"encoding/base64"
 	"fmt"
 	"log"
-	"maitracker/database"
 	"net/http"
 	"strings"
+
+	"github.com/drahoslavzan/mailtracker/database"
 
 	"github.com/go-chi/chi"
 )

@@ -1,4 +1,4 @@
-module maitracker
+module github.com/drahoslavzan/mailtracker
 
 go 1.14
 
